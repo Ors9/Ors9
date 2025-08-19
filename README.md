@@ -26,6 +26,13 @@
   - https://github.com/Ors9/assembler
 - 🔹 **Android + JavaFX Calculator** — Modern GUI calculator with operator precedence and a clean UI.
   - https://github.com/Ors9/Calculator-App
+ 
+ ## 📚 Algorithms & Practice
+
+- 🟢 [LeetCodes](https://github.com/Ors9/LeetCodes) – My collection of solved LeetCode problems in Java  
+- 🟢 [Efficiency Exercises (Java)](https://github.com/Ors9/Effieciety-Excersices-java) – Focused on time/space complexity and optimization  
+- 🟢 [Recursion Exercises (Java)](https://github.com/Ors9/Recursive---Excersices-Java-) – Practice with recursive problem solving
+
 
 👉 There’s more in my repos—feel free to explore!
 
