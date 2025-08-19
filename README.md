@@ -45,21 +45,11 @@
 ![Or's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ors9&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ors9&layout=compact&theme=tokyonight)
 
-## 📆 Yearly Stats
-
-### 2023
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ors9&year=2023&theme=tokyonight)
-
-### 2024
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ors9&year=2024&theme=tokyonight)
-
-### 2025
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ors9&year=2025&theme=tokyonight)
-
-
-
+---
 
 ## 📫 Contact
-✉️ [Email](mailto:or8saban@gmail.com)  
-📞 [Phone: 054-463-6567](tel:+972544636567)  
-💬 [WhatsApp](https://wa.me/972544636567)
+<p align="left">
+  <a href="mailto:or8saban@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/972544636567"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="tel:+972544636567"><img src="https://img.shields.io/badge/Phone-0078D4?style=for-the-badge&logo=phone&logoColor=white"/></a>
+</p>
