@@ -28,9 +28,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Or’s GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![Or’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Ors9&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ors9&layout=compact&theme=tokyonight)
 
 ---
 
