@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Or Saban
 
-🎓 Computer Science Student | 💻 Developer 
-B.Sc. Computer Science, Open University (GPA: 89/100)
+🎓 Computer Science Student | 💻 Developer  
+
 ---
 
 ## 🚀 About Me
-- 📚 Studying Computer Science at the **Open University**
 - 🎓 B.Sc. Computer Science, The Open University of Israel  
--  GPA: 89/100 | Completed 70/120 credits.
+- 📊 GPA: 89/100 | Completed 70/120 credits.
+- 💡 Passionate about algorithms, system programming, and software development  
 
 ---
 
@@ -22,30 +22,34 @@ B.Sc. Computer Science, Open University (GPA: 89/100)
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </p>
+
 ---
 
 ## 📌 Featured Projects
 
-- 🔹 **Trading Bot** — Algorithmic trading strategies with **Binance API** and **Interactive Brokers API**. *My favorite project.*
-  - https://github.com/Ors9/algotradingbot
-- 🔹 **Assembler (C)** — Two-pass assembler with macro preprocessing, symbol tables, and error reporting.
-  - https://github.com/Ors9/assembler
-- 🔹 **Android + JavaFX Calculator** — Modern GUI calculator with operator precedence and a clean UI.
-  - https://github.com/Ors9/Calculator-App
- 
- ## 📚 Algorithms & Practice
+- 🔹 **Trading Bot** — Algorithmic trading strategies with **Binance API** and **Interactive Brokers API** *(favorite project)*  
+  [🔗 Repository](https://github.com/Ors9/algotradingbot)
 
-- 🟢 [LeetCodes](https://github.com/Ors9/LeetCodes) – My collection of solved LeetCode problems in Java  
-- 🟢 [Efficiency Exercises (Java)](https://github.com/Ors9/Effieciety-Excersices-java) – Focused on time/space complexity and optimization  
-- 🟢 [Recursion Exercises (Java)](https://github.com/Ors9/Recursive---Excersices-Java-) – Practice with recursive problem solving
+- 🔹 **Assembler (C)** — Two-pass assembler with macro preprocessing, symbol tables, and error reporting  
+  [🔗 Repository](https://github.com/Ors9/assembler)
 
+- 🔹 **Android + JavaFX Calculator** — Modern GUI calculator with operator precedence and a clean UI  
+  [🔗 Repository](https://github.com/Ors9/Calculator-App)
 
-👉 There’s more in my repos—feel free to explore!
+---
+
+## 📚 Algorithms & Practice
+
+- 🟢 [LeetCodes](https://github.com/Ors9/LeetCodes) – Solved LeetCode problems in Java  
+- 🟢 [Efficiency Exercises (Java)](https://github.com/Ors9/Effieciety-Excersices-java) – Time/space complexity and optimization practice  
+- 🟢 [Recursion Exercises (Java)](https://github.com/Ors9/Recursive---Excersices-Java-) – Recursive problem-solving practice  
+
+👉 More projects are available in my [repositories](https://github.com/Ors9?tab=repositories).
 
 ---
 
 ## 📊 GitHub Stats
-![Or's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ors9&show_icons=true&theme=tokyonight&count_private=true)
+![Or's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ors9&show_icons=true&theme=tokyonight&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ors9&layout=compact&theme=tokyonight)
 
 ---
@@ -55,4 +59,6 @@ B.Sc. Computer Science, Open University (GPA: 89/100)
   <a href="mailto:or8saban@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://wa.me/972544636567"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="tel:+972544636567"><img src="https://img.shields.io/badge/Phone-0078D4?style=for-the-badge&logo=phone&logoColor=white"/></a>
+  <!-- אם יש לך לינקדאין -->
+  <!-- <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 </p>
