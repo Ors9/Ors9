@@ -19,9 +19,15 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 [Assembler Project](https://github.com/Ors9/assembler) – A two-pass assembler written in C  
-- 🔹 [JavaFX Calculator](https://github.com/Ors9/calculator) – Modern GUI calculator with operator precedence  
-- 🔹 [Trading Bot](https://github.com/Ors9/algotradingbot) – Algorithmic trading strategies with Binance API  
+
+- 🔹 **Trading Bot** — Algorithmic trading strategies with **Binance API** and **Interactive Brokers API**. *My favorite project.*
+  - https://github.com/Ors9/algotradingbot
+- 🔹 **Assembler (C)** — Two-pass assembler with macro preprocessing, symbol tables, and error reporting.
+  - https://github.com/Ors9/assembler
+- 🔹 **Android + JavaFX Calculator** — Modern GUI calculator with operator precedence and a clean UI.
+  - https://github.com/Ors9/Calculator-App
+
+👉 There’s more in my repos—feel free to explore!
 
 ---
 
