@@ -41,11 +41,22 @@
 
 ---
 
-## 📊 GitHub Stats (All time)
+## 📊 GitHub Stats
 ![Or's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ors9&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ors9&layout=compact&theme=tokyonight)
 
-![Metrics](https://metrics.lecoq.io/Ors9?template=classic&base.community=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&base=header, activity, community, repositories, metadata&isocalendar.duration=full-year&la)
+## 📆 Yearly Stats
+
+### 2023
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ors9&year=2023&theme=tokyonight)
+
+### 2024
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ors9&year=2024&theme=tokyonight)
+
+### 2025
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ors9&year=2025&theme=tokyonight)
+
+
 
 
 ## 📫 Contact
