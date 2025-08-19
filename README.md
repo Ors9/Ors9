@@ -45,6 +45,8 @@
 ![Or's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ors9&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ors9&layout=compact&theme=tokyonight)
 
+![Metrics](https://metrics.lecoq.io/Ors9?template=classic&base.community=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&base=header, activity, community, repositories, metadata&isocalendar.duration=full-year&la)
+
 
 ## 📫 Contact
 ✉️ [Email](mailto:or8saban@gmail.com)  
