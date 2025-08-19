@@ -1,11 +1,14 @@
 # 👋 Hi, I’m Or Saban
 
 🎓 Computer Science Student | 💻 Developer 
-
+B.Sc. Computer Science, Open University (GPA: 89/100)
 ---
 
 ## 🚀 About Me
-- 📚 Studying Computer Science at the **Open University**  
+- 📚 Studying Computer Science at the **Open University**
+- 🎓 B.Sc. Computer Science, The Open University of Israel  
+-  GPA: 89/100 | Completed 70/120 credits.
+
 ---
 
 ## 🛠️ Languages and Tools
