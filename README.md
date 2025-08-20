@@ -46,10 +46,10 @@
 
 👉 More projects are available in my [repositories](https://github.com/Ors9?tab=repositories).
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Ors9/algotradingbot)
-![GitHub forks](https://img.shields.io/github/forks/Ors9/algotradingbot)
-![GitHub watchers](https://img.shields.io/github/watchers/Ors9/algotradingbot)
-![GitHub repo size](https://img.shields.io/github/repo-size/Ors9/algotradingbot)
+![GitHub Repo stars](https://img.shields.io/github/stars/Ors9/assembler)
+![GitHub forks](https://img.shields.io/github/forks/Ors9/assembler)
+![GitHub watchers](https://img.shields.io/github/watchers/Ors9/assembler)
+![GitHub repo size](https://img.shields.io/github/repo-size/Ors9/assembler)
 
 
 
