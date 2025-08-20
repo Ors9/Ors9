@@ -46,11 +46,7 @@
 
 👉 More projects are available in my [repositories](https://github.com/Ors9?tab=repositories).
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Ors9/Assembler2024B)
-![GitHub forks](https://img.shields.io/github/forks/Ors9/Assembler2024B)
-![GitHub watchers](https://img.shields.io/github/watchers/Ors9/Assembler2024B)
-![GitHub repo size](https://img.shields.io/github/repo-size/Ors9/Assembler2024B)
-
+![Or's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ors9&show_icons=true&theme=tokyonight&count_private=true)
 
 
 ## 📫 Contact
