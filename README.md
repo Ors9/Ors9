@@ -31,7 +31,7 @@
   [🔗 Repository](https://github.com/Ors9/algotradingbot)
 
 - 🔹 **Assembler (C)** — Two-pass assembler with macro preprocessing, symbol tables, and error reporting  
-  [🔗 Repository](https://github.com/Ors9/assembler)
+  [🔗 Repository](https://github.com/Ors9/Assembler2024B)
 
 - 🔹 **Android + JavaFX Calculator** — Modern GUI calculator with operator precedence and a clean UI  
   [🔗 Repository](https://github.com/Ors9/Calculator-App)
@@ -46,10 +46,10 @@
 
 👉 More projects are available in my [repositories](https://github.com/Ors9?tab=repositories).
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Ors9/assembler)
-![GitHub forks](https://img.shields.io/github/forks/Ors9/assembler)
-![GitHub watchers](https://img.shields.io/github/watchers/Ors9/assembler)
-![GitHub repo size](https://img.shields.io/github/repo-size/Ors9/assembler)
+![GitHub Repo stars](https://img.shields.io/github/stars/Ors9/Assembler2024B)
+![GitHub forks](https://img.shields.io/github/forks/Ors9/Assembler2024B)
+![GitHub watchers](https://img.shields.io/github/watchers/Ors9/Assembler2024B)
+![GitHub repo size](https://img.shields.io/github/repo-size/Ors9/Assembler2024B)
 
 
 
