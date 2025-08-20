@@ -46,12 +46,6 @@
 
 👉 More projects are available in my [repositories](https://github.com/Ors9?tab=repositories).
 
----
-
-## 📊 GitHub Stats
-![Or's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ors9&show_icons=true&theme=tokyonight&count_private=true)  
-
----
 
 ## 📫 Contact
 <p align="left">
