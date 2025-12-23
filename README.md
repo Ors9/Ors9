@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 🎓 B.Sc. Computer Science, The Open University of Israel  
-- 📊 GPA: 89/100 | Completed 70/120 credits.
+- 📊 GPA: 90/100 | Completed 74/120 credits.
 - 💡 Passionate about algorithms, system programming, and software development  
 
 ---
